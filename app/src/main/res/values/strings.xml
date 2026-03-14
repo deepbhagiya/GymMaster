@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Gym Master</string>
+    <string name="category_chest">CHEST</string>
+    <string name="category_back">BACK</string>
+    <string name="category_legs">LEGS</string>
+    <string name="category_arms">ARMS</string>
+    <string name="category_cardio">CARDIO</string>
+    <string name="category_core">CORE</string>
+    <string name="select_area">Select your target area</string>
+    <string name="watch_tutorial">Watch Tutorial on YouTube</string>
+    <string name="search_tutorial">Search Tutorial on YouTube</string>
+    <string name="gym_workout">Gym Workout</string>
+    <string name="home_workout">Home Workout</string>
+    <string name="no_exercises_found">No exercises found for this category.</string>
+    <string name="exercises_suffix">Exercises</string>
+    <string name="search_hint">Search exercises…</string>
+    <string name="get_suggestions">Get My Suggestion</string>
+    <string name="suggest_header">Personalized Suggestion</string>
+    <string name="weight_hint">Your Weight (kg)</string>
+    <string name="height_hint">Your Height (cm)</string>
+    <string name="analyze_suggest">Analyze &amp; Suggest</string>
+    <string name="bmi_result_prefix">Your BMI: %1$s (%2$s)</string>
+    <string name="suggest_strength">We suggest focusing on strength training to build muscle and increase metabolism.</string>
+    <string name="suggest_cardio">We suggest focusing on cardio and fat loss exercises to reach a healthier weight.</string>
+    <string name="suggest_balanced">You have a healthy BMI. Maintain your fitness with a balanced workout routine.</string>
+    <string name="enter_values_toast">Please enter both height and weight.</string>
+    <string name="tagline">Master Your Fitness Journey</string>
+    <string name="instruction_label">Instruction</string>
+    <string name="content_desc_arrow">Navigation Arrow</string>
+    <string name="suggestion_routine_label">Suggested Routine</string>
+    <string name="recommendation_label">Your Recommendation</string>
+    <string name="analyze_fitness_title">Analyze Your Fitness</string>
+</resources>
