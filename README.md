@@ -26,7 +26,7 @@ Gym Master is a professional, high-performance Android application designed to g
 
 ## 📱 Screenshots
 
-*(Coming Soon - Add your app screenshots here!)*
+
 
 ## 📂 Project Structure
 
